@@ -32,5 +32,6 @@ p{
 *{
   background-color: #154D71;
   color: #FFF9AF;
-  cursor: url("/apa\ apa/jam/download.png"), auto;
+  cursor: url("/download.png"), auto;
+
 }
